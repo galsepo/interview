@@ -79,7 +79,8 @@
 //         }
 //     }
 // }
-// const newAdd = memoizeAdd()
+// 
 // console.log(newAdd(9))// output: 19 calculated
 // console.log(newAdd(9))// output: 19 cashe
 // console.log(newAdd(9))// output: 19 cashe
+
